@@ -14,3 +14,5 @@ This is a simple GUI application that allows you to check if a specific Windows 
 - Python 3.x
 - tkinter
 - Windows OS
+
+![image](https://github.com/Lu-ari/KB_Checker/assets/89011948/a41fa053-ec9d-4489-be51-da5c05910d83)
